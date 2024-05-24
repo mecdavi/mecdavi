@@ -9,25 +9,24 @@
     srcset="https://github-readme-stats.vercel.app/api?username=mecdavi&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="58%"  src="https://github-readme-stats.vercel.app/api?username=mecdavi&show_icons=true" />
+  <img width="52.4%"  src="https://github-readme-stats.vercel.app/api?username=mecdavi&show_icons=true" />
 </picture>
 <picture >
-  <img style="display:inline" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecdavi&bg_color=181716&text_color=fff5b6&icon_color=e47025&layout=donut" />
+  <img style="display:inline" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecdavi&bg_color=181716&text_color=fff5b6&icon_color=e47025&layout=compact" />
 </picture>
 <div style="display:inline-block">
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />   
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-                                             
-          
-    
 </div>
+
 <!--
 **mecdavi/mecdavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
