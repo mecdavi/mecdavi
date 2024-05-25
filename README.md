@@ -14,8 +14,9 @@
 <picture >
   <img style="display:inline" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecdavi&bg_color=181716&text_color=fff5b6&icon_color=e47025&layout=compact" />
 </picture>
-<div style="display:inline-block">
-  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+<br></br>
+<p >
+  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"  />
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />   
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -25,7 +26,7 @@
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
+</p>
 
 <!--
 **mecdavi/mecdavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
