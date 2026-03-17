@@ -1,6 +1,6 @@
 ## Bem vindo!
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mecdavi&theme=dark&hide_border=true&cache_seconds=86400" alt="mecdavi's GitHub Streak" width="69%" />
+  <img src="https://streak-stats.demolab.com/?user=mecdavi&theme=dark&hide_border=true&cache_seconds=86000" alt="mecdavi's GitHub Streak" width="69%" />
 </p>
 <br></br>
 <p >
